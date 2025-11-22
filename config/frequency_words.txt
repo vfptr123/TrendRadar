@@ -46,6 +46,19 @@ Microsoft AI
 Meta AI
 Anthropic
 NVIDIA
+
+# AI重要人物
+黄仁勋
+Jensen Huang
+马斯克
+Elon Musk
+萨姆·奥特曼
+Sam Altman
+黄仁勋
+马斯克
++演讲
++发言
++采访
 +发布
 +升级
 +新品
@@ -242,9 +255,16 @@ QT
 科技战
 芯片禁令
 半导体限制
+中国
+美国
+China
+USA
 +影响
 +反应
 +措施
++会晤
++会谈
++协议
 
 # =============================================================================
 # 🔥 行业热点关键词 Industry Hotspots
@@ -264,10 +284,13 @@ XPeng
 NIO
 特斯拉
 Tesla
+TSLA
 +销量
 +订单
 +交付
 +产能
++股价
++马斯克
 
 # 半导体芯片
 半导体
@@ -300,9 +323,13 @@ Huawei
 Xiaomi
 OPPO
 vivo
+三星
+Samsung
 +新品
 +销量
 +市场份额
++创新
++技术
 
 # 医药生物
 生物医药
@@ -335,6 +362,217 @@ Country Garden
 +政策
 +市场
 +价格
+
+# =============================================================================
+# 🌟 全球重要企业 Global Companies
+# =============================================================================
+
+# 科技巨头
+微软
+Microsoft
+MSFT
+谷歌
+Alphabet
+GOOGL
+亚马逊
+Amazon
+AMZN
+Meta
+Facebook
+苹果
+Apple
+AAPL
+特斯拉
+Tesla
+TSLA
+英伟达
+NVIDIA
+NVDA
+AMD
+Intel
+博通
+高通
+
+# 中国科技巨头
+腾讯
+Tencent
+阿里巴巴
+Alibaba
+BABA
+百度
+Baidu
+京东
+JD.com
+字节跳动
+ByteDance
+美团
+Meituan
+小米
+Xiaomi
+拼多多
+Pinduoduo
+
+# 新能源企业
+比亚迪
+BYD
+宁德时代
+CATL
+理想汽车
+Li Auto
+小鹏汽车
+XPeng
+蔚来
+NIO
+
+# =============================================================================
+# 🎮 游戏产业 Gaming Industry
+# =============================================================================
+
+# 游戏巨头
+腾讯游戏
+Tencent Games
+网易游戏
+NetEase Games
+米哈游
+miHoYo
+原神
+Genshin Impact
+崩坏
+Honkai
+未定事件簿
+Tears of Themis
++流水
++营收
++下载量
++DAU
+
+# A股游戏公司
+完美世界
+Perfect World
+吉比特
+G-bits
+三七互娱
+37 Interactive Entertainment
+恺英网络
+ZQGame
+游族网络
+Youzu
+世纪华通
+Century Huatong
+昆仑万维
+Kunlun Wanwei
+掌趣科技
+Ourpalm
+宝通科技
+BaoTong Technology
+巨人网络
+Giant Network
+电魂网络
+Dianhun Network
+恺英网络
+ZQGame
+盛天网络
+Shengtian Network
+姚记科技
+Yaoji Technology
+富春股份
+Fuchun Shares
+国脉文化
+Guomai Culture
+天神娱乐
+Tianshen Entertainment
+金科文化
+Jinke Culture
+凯撒文化
+Caesar Culture
+华谊兄弟
+Huayi Brothers
+奥飞娱乐
+Alpha Animation
+汤姆猫
+Talking Tom
+星辉娱乐
+Rastar Entertainment
+神州泰岳
+Digital China
+ST中昌
+ST Zhongchang
+艾格拉斯
+EGLS
++股价
++财报
++业绩
++净利润
++毛利率
++营收
++亏损
++扭亏
+
+# 游戏运营指标
+月活
+MAU
+流水
+DAU
+日活
+赛事
+版本更新
++增长
++下降
++创新高
+
+# 游戏政策与监管
+游戏版号
+Game License
+游戏监管
+Game Regulation
+未成年人保护
+Minor Protection
+防沉迷
+Anti-addiction
+游戏税收
+Game Tax
+文化出海
+Cultural Export
++政策
++利好
++利空
++收紧
++放松
+
+# 游戏行业趋势
+电竞产业
+Esports
+元宇宙游戏
+Metaverse Gaming
+云游戏
+Cloud Gaming
+VR游戏
+Virtual Reality Gaming
+手游市场
+Mobile Gaming
+PC游戏
+PC Gaming
+主机游戏
+Console Gaming
++增长
++趋势
++市场
++用户
+
+# 国际游戏公司
+索尼
+Sony
+PlayStation
+微软游戏
+Microsoft Gaming
+Xbox
+任天堂
+Nintendo
+Steam
+Epic Games
++独占
++多平台
++发行
 
 # =============================================================================
 # 📊 宏观经济指标 Macroeconomic Indicators
