@@ -1,113 +1,404 @@
-胖东来
-于东来
+# TrendRadar 智能财经热点监控关键词配置
+# 涵盖AI人工智能、股票市场、加密货币、政策政治、行业热点、宏观经济
+# 支持中英双语监控
 
-DeepSeek
-梁文锋
+# =============================================================================
+# 🤖 人工智能 AI & Technology
+# =============================================================================
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+# AI基础技术类
+人工智能
+AI
+ChatGPT
+GPT-5
+Claude
+Gemini
+大模型
+Large Language Model
+LLM
+AGI
+通用人工智能
+机器学习
+Machine Learning
+深度学习
+Deep Learning
+神经网络
+Neural Network
++技术
 
-比亚迪
-王传福
+# AI公司产品类
+OpenAI
+谷歌AI
+Google AI
+百度AI
+阿里AI
+腾讯AI
+字节AI
+智谱AI
+月之暗面
+Kimi
+文心一言
+通义千问
+混元
+科大讯飞
+华为盘古
+Microsoft AI
+Meta AI
+Anthropic
+NVIDIA
++发布
++升级
++新品
 
-大疆
-DJI
+# AI应用类
+自动驾驶
+Autonomous Driving
+机器人
+Robot
+智能助手
+AI Assistant
+AI芯片
+AI Chip
+GPU
+算力
+Computing Power
++技术突破
++商用
++落地
 
-宇树
-王兴兴
+# =============================================================================
+# 📈 中外股票市场 Stock Markets
+# =============================================================================
 
-智元
-灵犀
-稚晖君
-彭志辉
+# 中国股市
+A股
+A股市场
+上证指数
+深证成指
+创业板指
+科创50
+沪深300
+中证500
++涨跌
++走势
++开盘
++收盘
+!预测
+!分析
 
-黑神话
-冯骥
+# 港股市场
+港股
+恒生指数
+国企指数
+红筹股
+腾讯
+阿里巴巴
+美团
+小米
++股价
++市值
++财报
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
+# 美国股市
+美股
+美股市场
+纳斯达克
+NASDAQ
+标普500
+S&P 500
+道琼斯
+Dow Jones
+苹果
+Apple
+AAPL
 微软
 Microsoft
-
+MSFT
+谷歌
+Alphabet
+GOOGL
+亚马逊
+Amazon
+AMZN
+特斯拉
+Tesla
+TSLA
 英伟达
 NVIDIA
-黄仁勋
+NVDA
++财报
++业绩
++股价
++市值
 
-AMD
+# 全球其他市场
+日经指数
+东京股市
+欧洲股市
+伦敦股市
+德国DAX
+法国CAC
+富时100
++全球
++影响
 
-谷歌
-google
-gemini
-deepmind
+# =============================================================================
+# 💰 加密货币和区块链 Crypto & Blockchain
+# =============================================================================
 
-chatgpt
-openai
-sora
+# 主要加密货币
+比特币
+Bitcoin
+BTC
+以太坊
+Ethereum
+ETH
+BNB
+XRP
+Cardano
+ADA
+Solana
+SOL
+狗狗币
+Dogecoin
+DOGE
+柴犬币
+Shiba Inu
+SHIB
++价格
++走势
++涨幅
 
-claude
-Anthropic
+#区块链技术
+区块链
+Blockchain
+DeFi
+去中心化金融
+NFT
+非同质化代币
+Web3
+元宇宙
+Metaverse
+智能合约
+Smart Contract
++技术
++应用
++发展
 
-iphone
-ipad
-mac
-ios
+#加密货币平台
+币安
+Binance
+Coinbase
+OKX
+火币
+HTX
++监管
++政策
++合规
 
-ai
-!gai
-人工智能
+# =============================================================================
+# 🏛️ 政策政治 Policy & Politics
+# =============================================================================
 
-自动驾驶
+# 国内政策
+货币政策
+财政政策
+经济政策
+金融监管
+央行降准
+央行降息
+利率政策
+存款准备金率
+MLF
+中期借贷便利
++国务院
++央行
++发改委
++证监会
++银保监会
 
-机器人
+# 国外政策
+美联储
+FED
+欧洲央行
+ECB
+日本央行
+BOJ
+利率决议
+货币政策会议
+FOMC
+量化宽松
+QE
+量化紧缩
+QT
++加息
++降息
++政策
 
-国产
-中国
+# 政治事件
+中美关系
+中美贸易
+贸易战
+科技战
+芯片禁令
+半导体限制
++影响
++反应
++措施
 
-美国
-日本
-韩国
+# =============================================================================
+# 🔥 行业热点关键词 Industry Hotspots
+# =============================================================================
 
+# 新能源
+新能源汽车
+Electric Vehicle
+EV
+比亚迪
+BYD
+理想汽车
+Li Auto
+小鹏汽车
+XPeng
+蔚来
+NIO
+特斯拉
+Tesla
++销量
++订单
++交付
++产能
+
+# 半导体芯片
+半导体
+Semiconductor
 芯片
-光刻机
+Chip
+中芯国际
+SMIC
+华为海思
+台积电
+TSMC
+联电
+UMC
++产能
++制程
++技术
++供应链
 
-科技
+# 消费电子
+消费电子
+Consumer Electronics
+智能手机
+Smartphone
+苹果
+Apple
+iPhone
+华为
+Huawei
+小米
+Xiaomi
+OPPO
+vivo
++新品
++销量
++市场份额
 
-核能
+# 医药生物
+生物医药
+Biotechnology
+疫苗
+Vaccine
+创新药
+Novel Drug
+医疗器械
+Medical Device
+CRO
+CDMO
++研发
++临床
++获批
++上市
 
-水电站
-雅鲁藏布江
+# 房地产
+房地产
+Real Estate
+房价
+House Price
+楼市调控
+万科
+Vanke
+恒大
+Evergrande
+碧桂园
+Country Garden
++政策
++市场
++价格
 
-新质生产力
+# =============================================================================
+# 📊 宏观经济指标 Macroeconomic Indicators
+# =============================================================================
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+# 经济增长
+GDP
+国内生产总值
+经济增长
+经济衰退
+Recession
+经济复苏
+Recovery
++数据
++预期
++实际
+
+# 通货膨胀
+通胀
+Inflation
+CPI
+居民消费价格指数
+PPI
+工业生产者出厂价格指数
++同比
++环比
++数据
+
+# 就业市场
+就业
+Employment
+失业率
+Unemployment Rate
+非农就业
+Non-farm Payrolls
+PMI
+采购经理人指数
++数据
++预期
+
+# 国际贸易
+进出口
+Import Export
+贸易顺差
+Trade Surplus
+贸易逆差
+Trade Deficit
+外汇储备
+Foreign Exchange Reserves
+人民币汇率
+RMB Exchange Rate
+美元指数
+Dollar Index
+DXY
+
+# 金融市场指标
+利率
+Interest Rate
+汇率
+Exchange Rate
+国债收益率
+Treasury Yield
+信用利差
+Credit Spread
++变化
++趋势
++影响
